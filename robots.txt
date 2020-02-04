@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iedugiane.ishb2goneyet.com/sitemap.xml
